@@ -66,6 +66,7 @@ com\odji\spring_back_end\services\UserService.class
 com\odji\spring_back_end\services\SignalerService.class
 com\odji\spring_back_end\controller\FactureReparerController.class
 com\odji\spring_back_end\model\Societe.class
+com\odji\spring_back_end\model\Depot.class
 com\odji\spring_back_end\services\PersonelService.class
 com\odji\spring_back_end\controller\LigneReparationController.class
 com\odji\spring_back_end\services\MagasinService.class
@@ -80,6 +81,7 @@ com\odji\spring_back_end\model\Command.class
 com\odji\spring_back_end\model\Departement$DepartementBuilder.class
 com\odji\spring_back_end\model\Produit$ProduitBuilder.class
 com\odji\spring_back_end\model\LigneFactureReparer$LigneFactureReparerBuilder.class
+com\odji\spring_back_end\model\Retrait.class
 com\odji\spring_back_end\services\FactureReparerService.class
 com\odji\spring_back_end\model\Avarie$AvarieBuilder.class
 com\odji\spring_back_end\model\Departement.class

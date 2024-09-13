@@ -45,6 +45,7 @@ Z:\dev\gestionstockib\Gestion_Spring_Back_end\src\main\java\com\odji\spring_back
 Z:\dev\gestionstockib\Gestion_Spring_Back_end\src\main\java\com\odji\spring_back_end\repository\UpdateStatusRepository.java
 Z:\dev\gestionstockib\Gestion_Spring_Back_end\src\main\java\com\odji\spring_back_end\repository\ReparerRepository.java
 Z:\dev\gestionstockib\Gestion_Spring_Back_end\src\main\java\com\odji\spring_back_end\model\Avarie.java
+Z:\dev\gestionstockib\Gestion_Spring_Back_end\src\main\java\com\odji\spring_back_end\model\Retrait.java
 Z:\dev\gestionstockib\Gestion_Spring_Back_end\src\main\java\com\odji\spring_back_end\model\LigneFacture.java
 Z:\dev\gestionstockib\Gestion_Spring_Back_end\src\main\java\com\odji\spring_back_end\model\Departement.java
 Z:\dev\gestionstockib\Gestion_Spring_Back_end\src\main\java\com\odji\spring_back_end\services\CategorieService.java
@@ -81,6 +82,7 @@ Z:\dev\gestionstockib\Gestion_Spring_Back_end\src\main\java\com\odji\spring_back
 Z:\dev\gestionstockib\Gestion_Spring_Back_end\src\main\java\com\odji\spring_back_end\services\AvarieService.java
 Z:\dev\gestionstockib\Gestion_Spring_Back_end\src\main\java\com\odji\spring_back_end\controller\employeeController.java
 Z:\dev\gestionstockib\Gestion_Spring_Back_end\src\main\java\com\odji\spring_back_end\model\LigneReparation.java
+Z:\dev\gestionstockib\Gestion_Spring_Back_end\src\main\java\com\odji\spring_back_end\model\Depot.java
 Z:\dev\gestionstockib\Gestion_Spring_Back_end\src\main\java\com\odji\spring_back_end\services\LigneReparationService.java
 Z:\dev\gestionstockib\Gestion_Spring_Back_end\src\main\java\com\odji\spring_back_end\controller\DepartementController.java
 Z:\dev\gestionstockib\Gestion_Spring_Back_end\src\main\java\com\odji\spring_back_end\controller\LigneDemandeController.java
