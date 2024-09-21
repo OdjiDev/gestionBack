@@ -19,7 +19,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-@CrossOrigin(origins = "http://localhost:4200/") // Enable CORS for frontend at port 4200
+@CrossOrigin(origins = "https://odjidev.github.io") // Enable CORS for frontend at port 4200
 @RestController
 @RequiredArgsConstructor
 @RequestMapping("/api/serveur")
