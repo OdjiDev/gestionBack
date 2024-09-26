@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.*;
 import java.util.List;
 import java.util.Optional;
 
-@CrossOrigin(origins = "http://localhost:8100/")
+@CrossOrigin(origins = "https://odjidev.github.io/")
     @RestController
     @RequiredArgsConstructor
     @ RequestMapping("/api")
